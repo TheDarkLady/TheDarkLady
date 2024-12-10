@@ -15,3 +15,8 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=TheDarkLady&icon=0&color=0)](https://visitcount.itsvg.in)
+
+</br>
+<div align="center">
+  <img loading="lazy" alt="visitor badge" src="https://github-readme-activity-graph.vercel.app/graph?username=TheDarkLady&theme=react-dark&area=true&hide_border=true&hide_title=true">
+</div>
