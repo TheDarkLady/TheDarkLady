@@ -1,7 +1,8 @@
 ### Hi, I'm Lakshmi Chaithanya ...!
 - 🔭 I’m currently working on Web Development...
 - 🌱 I’m currently learning  React Native...
-- 📫 How to reach me [@_the._.dark._.lady](https://www.instagram.com/_the._.dark._.lady_?igsh=MTh2Nmd2Y3NwYmVxeA==)
+- 📫 How to reach me [@_the._.dark._.lady](https://www.instagram.com/_the._.dark._.lady_?igsh=MTh2Nmd2Y3NwYmVxeA==) </br></br></br>
+![Lakshmi's GitHub stats](https://github-readme-stats.vercel.app/api?username=thedarklady&show_icons=true&theme=radical)
 <!--
 **TheDarkLady/TheDarkLady** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
